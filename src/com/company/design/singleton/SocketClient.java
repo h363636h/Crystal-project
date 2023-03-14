@@ -16,6 +16,7 @@ public class SocketClient {
     }
 
     public void connet() {
-        System.out.println('oo');
+        System.out.println('ooddd');
+
     }
 }
